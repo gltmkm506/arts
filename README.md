@@ -1,2 +1,2 @@
-# The Lab
-home base for my art projects
+# Art Projects
+A separate webpage to serve as an arts portfolio. 
