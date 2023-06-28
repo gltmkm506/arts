@@ -1,2 +1,2 @@
-# arts
-art-focused site
+# The Lab
+home base for my art projects
