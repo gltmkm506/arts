@@ -1,3 +1,3 @@
 how did you find me? 
 
-![self portrait](assets/cuteselfie.png)
+![self portrait](/assets/cuteselfie.png)
