@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: The Lab 
 description: home base for my art projects 
+theme: jekyll-theme-modernist
